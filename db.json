@@ -1,31 +1,32 @@
-{
-  "posts": [
+{  
+   "account1000" : [
     {
-      "id": 1,
-      "category": "Tecnologia",
-      "title": "O guia definitivo sobre o blog",
-      "resume": "Lorem ipsum",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
-      "author": "Fulano de tal",
-      "date": "Aug 2, 2020"
+        "year": 2020,
+        "quarter": 4,
+        "reportCode": "2020-Q4"
     },
     {
-      "id": 2,
-      "category": "Fotografia",
-      "title": "Quais as melhores câmeras em 2021?",
-      "resume": "Lorem ipsum",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
-      "author": "Ciclano de tal",
-      "date": "Aug 4, 2020"
+        "year": 2020,
+        "quarter": 3,
+        "reportCode": "2020-Q3"
     },
     {
-      "id": 4,
-      "category": "Cinema",
-      "title": "Os 10 filmes com maior bilheteria.",
-      "resume": "Lorem ipsum",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
-      "author": "Beltrano de tal",
-      "date": "Aug 6, 2020"
+        "year": 2020,
+        "quarter": 2,
+        "reportCode": "2020-Q2"
+    },
+    {
+        "year": 2020,
+        "quarter": 1,
+        "reportCode": "2020-Q1"
     }
-  ]
-}
+   ],
+   "account2000" : [
+    {
+        "year": 2020,
+        "quarter": 4,
+        "reportCode": "2020-Q4"
+    }    
+   ],
+   "account3000" : []
+}  
